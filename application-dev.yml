@@ -9,7 +9,7 @@ eureka:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://Localhost:3306/microservices?useSSL=false
+    url: jdbc:mysql://Localhost:3306/user_ms?useSSL=false
     username: root
     password: password
   jpa:
